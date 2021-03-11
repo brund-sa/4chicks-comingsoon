@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "yarn run build && CI=true",
+    "build": "react-scripts build && CI=true",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
